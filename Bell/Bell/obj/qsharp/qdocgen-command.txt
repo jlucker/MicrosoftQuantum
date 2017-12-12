@@ -1,0 +1,4 @@
+:: files ::
+Bell.qs
+:: command ::
+"C:\Users\jlucker\Documents\Visual Studio 2017\Projects\Bell\packages\Microsoft.Quantum.Development.Kit.0.1.1712.901-preview\build\..\tools\qdocgen\docgen.exe" --input "Bell.qs" --doc-output obj\qsharp\docs\
